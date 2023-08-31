@@ -1,4 +1,4 @@
-#table-home{
+table{
     width: 900px;
     margin: auto;
 }
@@ -9,8 +9,21 @@
 
 p{
     text-align: justify;
+    font-size: 17px;
+}
+
+.menu{
+    text-align: right;
 }
 
 h3{
     text-align: center;
+}
+
+#body-home{
+    background-image: url(../img/fundo.png);
+}
+
+.body-backgroup{
+    background-image: url(../img/fundo2.png);
 }
