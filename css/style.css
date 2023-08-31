@@ -1,7 +1,16 @@
-*{
-    margin:0;
-    padding:0;
-    border:0;
+#table-home{
+    width: 900px;
+    margin: auto;
 }
 
+#center-capa{
+    height: 89px;
+}
 
+p{
+    text-align: justify;
+}
+
+h3{
+    text-align: center;
+}
