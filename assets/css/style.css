@@ -21,11 +21,11 @@ h3{
 }
 
 #body-home{
-    background-image: url(../img/fundo.png);
+    background-image: url(/assets/img/fundo.png);
 }
 
 .body-backgroup{
-    background-image: url(../img/fundo2.png);
+    background-image: url(/assets/img/fundo2.png);
 }
 
 .menu-margin{
