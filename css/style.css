@@ -21,11 +21,11 @@ h3{
 }
 
 #body-home{
-    background-image: url(/img/fundo.png);
+    background-image: url('../../ProjetoUnes/img/fundo.png');
 }
 
 .body-backgroup{
-    background-image: url(/img/fundo2.png);
+    background-image: url(https://i.ibb.co/DKWxpYg/fundo2.png);
 }
 
 .menu-margin{
